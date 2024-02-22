@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cWgQMdPZ6tTWpSa7ZQTaTcqg7etKzNFie7RYKOvqNfzaXrt+GYMhBNfZ2mzqNiVLWjMFNJH0bsp6TS3OCrDlBg==",
+  "success": true,
+  "projectFilePath": "F:\\git_repo\\FileUploader\\FileUploaderDemo\\FileUploaderDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEIR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\SEIR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\SEIR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\SEIR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
